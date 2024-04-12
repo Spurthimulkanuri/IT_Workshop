@@ -1,0 +1,618 @@
+rgukt-basar@spurthi:~$ ls
+ ac.class				  p5.java
+ account5.class				  p6.class
+ account5.java				  p6.java
+ account.class				  p7.class
+ account.java				  p7.java
+ ac.java				  p8.class
+ actorstomorrow.txt			  p8.java
+ A.java					  p9.class
+ alert.html				  p9.java
+ alert.js				  pairofDice1.java
+ ammount1.class				  PairofDice.class
+ ammount1.java				  PairofDice.java
+ ammount.java				  pal.class
+ anchor.html				  palindrome2.class
+ Animal.class				  palindrome2.java
+ Animal.java				  Palindrome.class
+ animation.html				  Palindrome.java
+ bbbb.java				  pal.java
+ bb.java				  pall.class
+ binarysearch.class			  pall.java
+ binarysearch.java			  parent6.class
+ b.java					  parent6.java
+ B.java					  passenger.class
+ book1.class				  payable.class
+ book1.java				  payablee.class
+ book3.class				  payablee.java
+ book3.java				  payable.java
+ book.class				  payb.class
+ Book.class				  payb.java
+ bookticket1.java			  pay.java
+ bookticket.class			  pays.class
+ bookticket.java			  payt.class
+ bprac.c				  p.c
+ bs.class				  person.class
+ bs.java				  Pictures
+ bst.c					  pkg1
+ bstint.c				  pm.c
+ bticket.class				  pmm.class
+ c					  pmm.java
+ c1.class				  portfolio.html
+ c1.java				 'postfix eval.c'
+ cal5.class				  pp.c
+ cal5.java				  pra.c
+ Calc.class				  prac.c
+ calci2.class				  pracc.c
+ calci2.java				  praccc.c
+ Calc.java				  pracqui.c
+ cal.class				  pract.c
+ call.class				  pr.c
+ call.java				  prime.class
+ car.class				  primefact2.class
+ Carnivorous.class			  primefact2.java
+ c.c					  Primefactor.class
+ cemp.class				  Primefactor.java
+ cemp.java				  prime.java
+ check.class				  prod1.class
+ check.java				  prod1.java
+ children.class				  prod.class
+ Circle1.class				  prod.java
+ circle1.java				  product.java
+ Circle1.java				  productt.class
+ Circle.class				  productt.java
+ circle.java				  prr.c
+ Circle.java				  Public
+ Circlel.class				  q.c
+ Circlel.java				  qq.c
+ cirr.class				  qqq.c
+ cirr.java				  qqqq.c
+ C.java					  qqqqq.c
+ class12.html				  qqqqqq.c
+ classtable1.html			  qu.c
+ co5.class				  queuearrint.c
+ co5.java				  queuellint.c
+ co.class				  quick.c
+ co.java				  quickint.c
+ command2.class				  quickros.c
+ command2.java				  quicksort.c
+ commandline.class			  r.c
+ commandline.java			  rectangle.class
+ Compare1.class				  Rectangle.class
+ Compare1.java				  rectangle.java
+ Compare.class				  regemp.class
+ Compare.java				  regularemp.class
+ Conca.class				  reth.java
+ Conca.java				  rethrowexp.class
+ conemp.class				  rethrowexp.java
+ conemp.java				  rfv.java
+ consumerthread.class			  roots1.class
+ contractemp6.class			  roots1.java
+ contractemp6.java			  Roots.class
+ contractemp.class			  Roots.java
+ contractemployee6.java			  Rootsm.class
+ cuboid.class				  Rootsm.java
+ customer.class				  rr.c
+ cv5.class				  sampl2.java
+ cv5.java				  sample1.java
+ cv.class				  sample2.java
+ cv.java				  sample.c
+'Day 8-20231023T055742Z-001.zip'	  samples.java
+ d.class				  SATURDAY
+ dd.class				  save.c
+ dd.java				  s.c
+ demo.class				  sdb.c
+ Desktop				  sd.c
+ dfsint.c				  sdc.c
+ dice1.class				  sdd.c
+ dice1.java				  search.class
+ dice2.class				  shap.class
+ dice2.java				  shape12.java
+ dice.class				  shape13.class
+ dice.java				  shape2.class
+ difftags.html				  shape2.java
+ d.java					  shape.class
+ docclass.html				  Shape.class
+ Documents				  shape.java
+ dog.class				  Shape.java
+ Downloads				  shapep.class
+'dual and coalesce'			  shapep.java
+ ebookstall.class			  shapes
+ ebookstall.java			  Shapes.class
+ e.c					  Shapes.java
+ ee.c					  shap.java
+ em.class				  sir
+ em.java				  s.java
+ emp13.class				  snap
+ emp13.java				  sort2.class
+ emp3.class				  sort2.java
+ emp3.java				  sorting2.class
+ emp6.class				  sorting2.java
+ emp6.java				  Sortnu.class
+ emp7.class				  Sortnu.java
+ emp7.java				  sortt.class
+ empa.class				  sortt.java
+ empa.java				  speed.class
+ emp.class				  speed.java
+ empdeta3.class				  spurthi
+ empdeta3.java				  square.java
+ emp.java				  ssss.class
+ emplo.class				  ssss.java
+ emplo.java				  stackint.c
+ employee.txt				  stackllint.c
+ empp11.class				  stat.class
+ empp11.java				  stat.java
+ emppp.class				  string.class
+ emppp.java				  stringfuction
+ emppra.java				  string.java
+ emppr.class				  StringSorting.class
+ emppr.java				  StringSorting.java
+ engg					  stt.c
+ enterr.class				  Student.class
+ enterr.java				  studentfee7.class
+ entra.class				  studentfee7.java
+ entra.java				  Student.java
+ entrance1.class			  Stud.java
+ entrance1.java				  sum.class
+ entrance.class				  Sum.class
+ entrance.java				  sum.java
+ epp.class				  Sum.java
+ epp.java				  summat2.java
+ Equal.class				  summatrix2.java
+ EqualIgnore.class			  summatrix.class
+ EqualIgnore.java			  summatrix.java
+ Equal.java				  tags.html
+ excep.class				  tbb.c
+ excep.java				  tb.c
+ exception.class			  td.c
+ ex.class				  tdd.c
+ fare.class				  Templates
+ file					  test11.java
+ file11					  test1.class
+ file12					  test1.java
+ five.class				  test5.class
+ five.java				  test5.java
+ fivenum3.class				  test.class
+ fivenum3.java				  Test.class
+ four.class				  test.java
+ fourwheeler.class			  Test.java
+ fruits.html				  testl.class
+ fw.class				  testl.java
+ geared.class				  TheaterThread.class
+ google-chrome-stable_current_amd64.deb   theature.class
+ grepfilter.txt				  theature.java
+ grid.html				  th.java
+ h.c					  thky5.class
+ headingtags.html			  thky5.java
+ he.class				  thths.java
+ Hello.class				  ticket.java
+ hello.html				  timefunc.html
+ hello.java				 'total engg'
+ Herbivorous.class			  traff.class
+ hostler.class				  trafficl.class
+ hourlyemp.class			  trafficl.java
+ hr.class				  traff.java
+ hremp.class				  TrainThread.class
+ html.html				  triangle.java
+ i.c					  tw.class
+ ii.c					  two.class
+ image.html				  twowheeler.class
+ IMP					  u.c
+ IMPP					  ulol.html
+ inftopo.c				  unique10.class
+ inftopoint.c				  unique10.java
+ invoice.class				  unique14.java
+ keyy.class				  unique15.java
+ keyy.java				  unique16.java
+ kk.c					  unique17.java
+ lab2					  unique18.class
+ Laesmall.java				  unique18.java
+ Larsmall.class				  unique19.class
+ Larsmall.java				  unique19.java
+ Linear.class				  unique20.class
+ Linear.java				  unique20.java
+ linearsearch2.class			  unique21.class
+ linearsearch2.java			  unique21.java
+ linearsearch.class			  unique22.class
+ linearsearch.java			  unique22.java
+ LMS2					  unique23.class
+ loading.class				  unique23.java
+ loading.java				  unique24.class
+ ls.class				  unique24.java
+ ls.java				  unique25.class
+ lss.class				  unique25.java
+ lss.java				  unique26.class
+ main.class				  unique26.java
+ main.java				  unique2.class
+ mami1.class				  unique2.java
+ mami1.java				  unique3.class
+ mammal.class				  unique3.java
+ mammal.java				  unique4.class
+ matm.class				  unique4.java
+ matm.java				  unique5.class
+ maxmin1.class				  unique5.java
+ maxmin1.java				  unique6.class
+ m.c					  unique6.java
+ mee.c					  unique7.class
+ mergeint.c				  unique7.java
+ mergesort.c				  unique8.class
+ minmax.html				  unique8.java
+ mm.c					  unique9.class
+ mmm.c					  unique9.java
+ mmmm.c					  unique.class
+ mmmmm.c				  unique.java
+ monthfile.txt				 'Untitled Document 1'
+ month.txt				  use.class
+ multmat.java				  use.java
+ multmatrix.class			  uu.c
+ multmatrix.java			  uuu.c
+ multmax.class				  uuuu.c
+ Music					  Value.class
+ myexcep96.class			  Value.java
+ myexcep96.java				  var.html
+ myexception.class			  variable.html
+ myexp92.java				  v.c
+ myexp.class				  VC.java
+ myexp.java				  vehh.class
+ mythread.class				  vehicle11.class
+ mythread.java				  vehicle11.java
+ nameso.class				  vehicle122.class
+ nameso.java				  vehicle122.java
+ namesort2.class			  vehicle12.class
+ namesort2.java				  vehicle12.java
+ nongeared.class			 'vehicle5$car.class'
+ nonhostler.class			  vehicle5.class
+ ns.class				  vehicle5.java
+ ns.java				  vehicle61.class
+ number.class				  vehicle61.java
+ number.java				  vehicle62.class
+ numeric				  vehicle62.java
+ numsort.class				  vehicle6.class
+ numsort.java				  vehicle6.java
+ Object.class				  vehicle7.class
+ o.c					  vehicle7.java
+ OccurIdx.class				  vehicle.class
+ OccurIdx.java				  Videos
+ oi.c					  VIEWS
+ Ominivorous.class			  w101.java
+ oo.c					  w102.java
+ order.java				  w94.java
+ p10.class				  w.c
+ p10.java				  we.class
+ p11.class				  weeklyemp.class
+ p11.java				  wk.class
+ p1.java				  wks.class
+ p2.class				  wrap5.class
+ p2.java				  wrap5.java
+ p3.class				  wraper.class
+ p3.java				  wraper.java
+ p4.class				  wrapper5.class
+ p4.java				  wrapper5.java
+ p5.class
+rgukt-basar@spurthi:~$ cat> file11
+spurthi
+student
+rgukt basar
+rgukt-basar@spurthi:~$ cat> file12
+hello
+rgukt-basar@spurthi:~$ pwd
+/home/rgukt-basar
+rgukt-basar@spurthi:~$ mkdir dir
+rgukt-basar@spurthi:~$ pwd
+/home/rgukt-basar
+rgukt-basar@spurthi:~$ cd dir
+rgukt-basar@spurthi:~/dir$ /dir$ pwd
+bash: /dir$: No such file or directory
+rgukt-basar@spurthi:~/dir$  pwd
+/home/rgukt-basar/dir
+rgukt-basar@spurthi:~/dir$ touch file11
+rgukt-basar@spurthi:~/dir$ cat file11
+rgukt-basar@spurthi:~/dir$ pwd
+/home/rgukt-basar/dir
+rgukt-basar@spurthi:~/dir$ cd dir1
+bash: cd: dir1: No such file or directory
+rgukt-basar@spurthi:~/dir$ /dir$ ps -ef
+bash: /dir$: No such file or directory
+rgukt-basar@spurthi:~/dir$ ps -ef
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 10:59 ?        00:00:00 /sbin/init splash
+root           2       0  0 10:59 ?        00:00:00 [kthreadd]
+root           3       2  0 10:59 ?        00:00:00 [rcu_gp]
+root           4       2  0 10:59 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 10:59 ?        00:00:00 [netns]
+root           7       2  0 10:59 ?        00:00:00 [kworker/0:0H-events_highpri
+root           8       2  0 10:59 ?        00:00:00 [kworker/0:1-cgwb_release]
+root          10       2  0 10:59 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 10:59 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 10:59 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 10:59 ?        00:00:00 [ksoftirqd/0]
+root          14       2  0 10:59 ?        00:00:00 [rcu_sched]
+root          15       2  0 10:59 ?        00:00:00 [migration/0]
+root          16       2  0 10:59 ?        00:00:00 [idle_inject/0]
+root          17       2  0 10:59 ?        00:00:00 [cpuhp/0]
+root          18       2  0 10:59 ?        00:00:00 [cpuhp/1]
+root          19       2  0 10:59 ?        00:00:00 [idle_inject/1]
+root          20       2  0 10:59 ?        00:00:00 [migration/1]
+root          21       2  0 10:59 ?        00:00:00 [ksoftirqd/1]
+root          22       2  0 10:59 ?        00:00:00 [kworker/1:0-events]
+root          23       2  0 10:59 ?        00:00:00 [kworker/1:0H-events_highpri
+root          24       2  0 10:59 ?        00:00:00 [cpuhp/2]
+root          25       2  0 10:59 ?        00:00:00 [idle_inject/2]
+root          26       2  0 10:59 ?        00:00:00 [migration/2]
+root          27       2  0 10:59 ?        00:00:00 [ksoftirqd/2]
+root          29       2  0 10:59 ?        00:00:00 [kworker/2:0H-events_highpri
+root          30       2  0 10:59 ?        00:00:00 [cpuhp/3]
+root          31       2  0 10:59 ?        00:00:00 [idle_inject/3]
+root          32       2  0 10:59 ?        00:00:00 [migration/3]
+root          33       2  0 10:59 ?        00:00:00 [ksoftirqd/3]
+root          35       2  0 10:59 ?        00:00:00 [kworker/3:0H-events_highpri
+root          36       2  0 10:59 ?        00:00:00 [kdevtmpfs]
+root          37       2  0 10:59 ?        00:00:00 [inet_frag_wq]
+root          38       2  0 10:59 ?        00:00:00 [kauditd]
+root          39       2  0 10:59 ?        00:00:00 [khungtaskd]
+root          40       2  0 10:59 ?        00:00:00 [oom_reaper]
+root          41       2  0 10:59 ?        00:00:00 [writeback]
+root          42       2  0 10:59 ?        00:00:00 [kcompactd0]
+root          43       2  0 10:59 ?        00:00:00 [ksmd]
+root          44       2  0 10:59 ?        00:00:00 [khugepaged]
+root          50       2  0 10:59 ?        00:00:00 [kworker/1:1-cgroup_destroy]
+root          91       2  0 10:59 ?        00:00:00 [kintegrityd]
+root          92       2  0 10:59 ?        00:00:00 [kblockd]
+root          93       2  0 10:59 ?        00:00:00 [blkcg_punt_bio]
+root          96       2  0 10:59 ?        00:00:00 [tpm_dev_wq]
+root          97       2  0 10:59 ?        00:00:00 [ata_sff]
+root          98       2  0 10:59 ?        00:00:00 [md]
+root          99       2  0 10:59 ?        00:00:00 [edac-poller]
+root         100       2  0 10:59 ?        00:00:00 [devfreq_wq]
+root         101       2  0 10:59 ?        00:00:00 [kworker/2:1-events]
+root         102       2  0 10:59 ?        00:00:00 [watchdogd]
+root         103       2  0 10:59 ?        00:00:00 [kworker/0:1H-kblockd]
+root         105       2  0 10:59 ?        00:00:00 [kswapd0]
+root         106       2  0 10:59 ?        00:00:00 [ecryptfs-kthrea]
+root         108       2  0 10:59 ?        00:00:00 [kthrotld]
+root         109       2  0 10:59 ?        00:00:00 [irq/123-pciehp]
+root         110       2  0 10:59 ?        00:00:00 [acpi_thermal_pm]
+root         113       2  0 10:59 ?        00:00:00 [vfio-irqfd-clea]
+root         114       2  0 10:59 ?        00:00:00 [mld]
+root         115       2  0 10:59 ?        00:00:00 [kworker/3:1H-events_highpri
+root         116       2  0 10:59 ?        00:00:00 [ipv6_addrconf]
+root         126       2  0 10:59 ?        00:00:00 [kstrp]
+root         129       2  0 10:59 ?        00:00:00 [zswap-shrink]
+root         130       2  0 10:59 ?        00:00:00 [kworker/u9:0-hci0]
+root         139       2  0 10:59 ?        00:00:00 [charger_manager]
+root         192       2  0 10:59 ?        00:00:00 [nvme-wq]
+root         193       2  0 10:59 ?        00:00:00 [nvme-reset-wq]
+root         194       2  0 10:59 ?        00:00:00 [nvme-delete-wq]
+root         195       2  0 10:59 ?        00:00:00 [scsi_eh_0]
+root         196       2  0 10:59 ?        00:00:00 [scsi_tmf_0]
+root         200       2  0 10:59 ?        00:00:03 [irq/166-SYNA7DA]
+root         202       2  0 10:59 ?        00:00:00 [kworker/2:1H-events_highpri
+root         203       2  0 10:59 ?        00:00:00 [kworker/2:3-events]
+root         224       2  0 10:59 ?        00:00:00 [jbd2/nvme0n1p2-]
+root         225       2  0 10:59 ?        00:00:00 [ext4-rsv-conver]
+root         230       2  0 10:59 ?        00:00:00 [kworker/1:1H-kblockd]
+root         267       1  0 10:59 ?        00:00:00 /lib/systemd/systemd-journal
+root         312       2  0 10:59 ?        00:00:00 [ipmi-msghandler]
+root         322       1  0 10:59 ?        00:00:00 /lib/systemd/systemd-udevd
+root         358       2  0 10:59 ?        00:00:00 [kworker/3:3-events]
+root         373       2  0 10:59 ?        00:00:00 [cfg80211]
+root         382       2  0 10:59 ?        00:00:00 [irq/171-iwlwifi]
+root         385       2  0 10:59 ?        00:00:00 [irq/172-iwlwifi]
+root         386       2  0 10:59 ?        00:00:00 [irq/173-iwlwifi]
+root         387       2  0 10:59 ?        00:00:00 [irq/174-iwlwifi]
+root         388       2  0 10:59 ?        00:00:00 [irq/175-iwlwifi]
+root         389       2  0 10:59 ?        00:00:00 [irq/176-iwlwifi]
+root         412       2  0 10:59 ?        00:00:00 [cryptd]
+root         413       2  0 10:59 ?        00:00:00 [kworker/0:3-cgroup_destroy]
+systemd+     416       1  0 10:59 ?        00:00:00 /lib/systemd/systemd-oomd
+systemd+     439       1  0 10:59 ?        00:00:00 /lib/systemd/systemd-resolve
+systemd+     442       1  0 10:59 ?        00:00:00 /lib/systemd/systemd-timesyn
+root         475       2  0 10:59 ?        00:00:00 [card0-crtc0]
+root         476       2  0 10:59 ?        00:00:00 [card0-crtc1]
+root         477       2  0 10:59 ?        00:00:00 [card0-crtc2]
+root         478       2  0 10:59 ?        00:00:00 [card0-crtc3]
+root         546       2  0 10:59 ?        00:00:00 [kmemstick]
+root         575       2  0 10:59 ?        00:00:00 [kworker/u9:2-i915_flip]
+root         797       1  0 10:59 ?        00:00:00 /usr/libexec/accounts-daemon
+root         799       1  0 10:59 ?        00:00:00 /usr/sbin/acpid
+avahi        804       1  0 10:59 ?        00:00:00 avahi-daemon: running [spurt
+root         808       1  0 10:59 ?        00:00:00 /usr/lib/bluetooth/bluetooth
+root         809       1  0 10:59 ?        00:00:00 /usr/sbin/cron -f -P
+message+     810       1  0 10:59 ?        00:00:00 @dbus-daemon --system --addr
+root         811       1  0 10:59 ?        00:00:00 /usr/sbin/NetworkManager --n
+root         817       1  0 10:59 ?        00:00:00 /usr/sbin/irqbalance --foreg
+root         826       1  0 10:59 ?        00:00:00 /usr/bin/python3 /usr/bin/ne
+root         828       1  0 10:59 ?        00:00:01 /usr/libexec/polkitd --no-de
+root         830       1  0 10:59 ?        00:00:00 /usr/libexec/power-profiles-
+syslog       833       1  0 10:59 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         839       1  0 10:59 ?        00:00:01 /usr/lib/snapd/snapd
+root         840       1  0 10:59 ?        00:00:00 /usr/libexec/switcheroo-cont
+root         844       1  0 10:59 ?        00:00:00 /lib/systemd/systemd-logind
+root         846       1  0 10:59 ?        00:00:00 /usr/sbin/thermald --systemd
+root         848       1  0 10:59 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root         850       1  0 10:59 ?        00:00:00 /sbin/wpa_supplicant -u -s -
+avahi        859     804  0 10:59 ?        00:00:00 avahi-daemon: chroot helper
+root         896       1  0 10:59 ?        00:00:00 /usr/sbin/ModemManager
+root         901       1  0 10:59 ?        00:00:00 /usr/libexec/boltd
+root         910       1  0 10:59 ?        00:00:00 /usr/sbin/cupsd -l
+root         966       1  0 10:59 ?        00:00:00 /usr/bin/python3 /usr/share/
+root         982       1  0 10:59 ?        00:00:00 /usr/sbin/gdm3
+mysql       1013       1  0 10:59 ?        00:00:05 /usr/sbin/mysqld
+root        1054       1  0 10:59 ?        00:00:00 /usr/libexec/upowerd
+rtkit       1073       1  0 10:59 ?        00:00:00 /usr/libexec/rtkit-daemon
+root        1248       1  0 10:59 ?        00:00:02 /usr/libexec/packagekitd
+colord      1389       1  0 10:59 ?        00:00:00 /usr/libexec/colord
+root        1429       2  0 10:59 ?        00:00:00 [USBC000:00-con0]
+root        1543     982  0 10:59 ?        00:00:00 gdm-session-worker [pam/gdm-
+root        1571       1  0 10:59 ?        00:00:00 /usr/sbin/cups-browsed
+kernoops    1574       1  0 10:59 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops    1578       1  0 10:59 ?        00:00:00 /usr/sbin/kerneloops
+rgukt-b+    1582       1  0 10:59 ?        00:00:00 /lib/systemd/systemd --user
+rgukt-b+    1583    1582  0 10:59 ?        00:00:00 (sd-pam)
+rgukt-b+    1589    1582  0 10:59 ?        00:00:00 /usr/bin/pipewire
+rgukt-b+    1590    1582  0 10:59 ?        00:00:00 /usr/bin/pipewire-media-sess
+rgukt-b+    1591    1582  0 10:59 ?        00:00:00 /usr/bin/pulseaudio --daemon
+rgukt-b+    1605    1582  0 10:59 ?        00:00:00 /usr/bin/dbus-daemon --sessi
+rgukt-b+    1610    1582  0 10:59 ?        00:00:00 /usr/libexec/gvfsd
+rgukt-b+    1617       1  0 10:59 ?        00:00:00 /usr/bin/gnome-keyring-daemo
+rgukt-b+    1624    1582  0 10:59 ?        00:00:00 /usr/libexec/gvfsd-fuse /run
+rgukt-b+    1631    1582  0 10:59 ?        00:00:00 /usr/libexec/xdg-document-po
+rgukt-b+    1636    1582  0 10:59 ?        00:00:00 /usr/libexec/xdg-permission-
+root        1642    1631  0 10:59 ?        00:00:00 fusermount3 -o rw,nosuid,nod
+rgukt-b+    1655    1582  0 10:59 ?        00:00:01 /usr/libexec/tracker-miner-f
+root        1668       2  0 10:59 ?        00:00:00 [krfcommd]
+rgukt-b+    1669    1582  0 10:59 ?        00:00:00 /usr/libexec/gvfs-udisks2-vo
+rgukt-b+    1674    1582  0 10:59 ?        00:00:00 /usr/libexec/gvfs-afc-volume
+rgukt-b+    1679    1582  0 10:59 ?        00:00:00 /usr/libexec/gvfs-goa-volume
+rgukt-b+    1683    1582  0 10:59 ?        00:00:00 /usr/libexec/goa-daemon
+rgukt-b+    1690    1582  0 10:59 ?        00:00:00 /usr/libexec/goa-identity-se
+rgukt-b+    1694    1582  0 10:59 ?        00:00:00 /usr/libexec/gvfs-gphoto2-vo
+rgukt-b+    1701    1582  0 10:59 ?        00:00:00 /usr/libexec/gvfs-mtp-volume
+rgukt-b+    1707    1543  0 10:59 tty2     00:00:00 /usr/libexec/gdm-wayland-ses
+rgukt-b+    1710    1707  0 10:59 tty2     00:00:00 /usr/libexec/gnome-session-b
+rgukt-b+    1757    1582  0 10:59 ?        00:00:00 /usr/libexec/gnome-session-c
+rgukt-b+    1769    1582  0 10:59 ?        00:00:00 /usr/libexec/gnome-session-b
+rgukt-b+    1785    1582  2 10:59 ?        00:00:21 /usr/bin/gnome-shell
+rgukt-b+    1789    1769  0 10:59 ?        00:00:00 /usr/libexec/at-spi-bus-laun
+rgukt-b+    1795    1789  0 10:59 ?        00:00:00 /usr/bin/dbus-daemon --confi
+rgukt-b+    1860    1582  0 10:59 ?        00:00:00 /usr/libexec/gnome-shell-cal
+rgukt-b+    1866    1582  0 10:59 ?        00:00:00 /usr/libexec/evolution-sourc
+rgukt-b+    1873    1582  0 10:59 ?        00:00:00 /usr/libexec/evolution-calen
+rgukt-b+    1876    1582  0 10:59 ?        00:00:00 /usr/libexec/dconf-service
+rgukt-b+    1887    1582  0 10:59 ?        00:00:00 /usr/libexec/evolution-addre
+rgukt-b+    1901    1610  0 10:59 ?        00:00:00 /usr/libexec/gvfsd-trash --s
+rgukt-b+    1913    1582  0 10:59 ?        00:00:00 /usr/bin/gjs /usr/share/gnom
+rgukt-b+    1915    1582  0 10:59 ?        00:00:00 /usr/libexec/at-spi2-registr
+rgukt-b+    1926    1582  0 10:59 ?        00:00:00 sh -c /usr/bin/ibus-daemon -
+rgukt-b+    1927    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-a11y-settin
+rgukt-b+    1930    1926  0 10:59 ?        00:00:01 /usr/bin/ibus-daemon --panel
+rgukt-b+    1931    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-color
+rgukt-b+    1932    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-datetime
+rgukt-b+    1936    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-housekeepin
+rgukt-b+    1937    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-keyboard
+rgukt-b+    1940    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-media-keys
+rgukt-b+    1942    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-power
+rgukt-b+    1943    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-print-notif
+rgukt-b+    1944    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-rfkill
+rgukt-b+    1952    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-screensaver
+rgukt-b+    1959    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-sharing
+rgukt-b+    1961    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-smartcard
+rgukt-b+    1962    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-sound
+rgukt-b+    1964    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-wacom
+rgukt-b+    1982    1769  0 10:59 ?        00:00:00 /usr/libexec/gsd-disk-utilit
+rgukt-b+    2004    1769  0 10:59 ?        00:00:00 /usr/libexec/evolution-data-
+rgukt-b+    2018    1930  0 10:59 ?        00:00:00 /usr/libexec/ibus-memconf
+rgukt-b+    2023    1930  0 10:59 ?        00:00:00 /usr/libexec/ibus-extension-
+rgukt-b+    2026    1582  0 10:59 ?        00:00:00 /usr/libexec/ibus-portal
+rgukt-b+    2065    1582  0 10:59 ?        00:00:01 /snap/snap-store/959/usr/bin
+rgukt-b+    2111    1582  0 10:59 ?        00:00:00 /usr/libexec/gsd-printer
+rgukt-b+    2116    1930  0 10:59 ?        00:00:00 /usr/libexec/ibus-engine-sim
+rgukt-b+    2184    1582  0 10:59 ?        00:00:00 /usr/libexec/xdg-desktop-por
+rgukt-b+    2192    1582  0 10:59 ?        00:00:00 /usr/libexec/xdg-desktop-por
+rgukt-b+    2202    1582  0 10:59 ?        00:00:00 /usr/bin/gjs /usr/share/gnom
+rgukt-b+    2249    1582  0 10:59 ?        00:00:00 /usr/libexec/xdg-desktop-por
+rgukt-b+    2300    1582  0 10:59 ?        00:00:00 /usr/libexec/gvfsd-metadata
+root        2319       1  0 10:59 ?        00:00:00 /usr/libexec/fwupd/fwupd
+rgukt-b+    2329    1582  0 10:59 ?        00:00:00 /snap/snapd-desktop-integrat
+rgukt-b+    2402    2329  0 10:59 ?        00:00:00 /snap/snapd-desktop-integrat
+rgukt-b+    2459    1610  0 10:59 ?        00:00:00 /usr/libexec/gvfsd-recent --
+rgukt-b+    2657    1769  0 11:00 ?        00:00:00 update-notifier
+rgukt-b+    2943    1610  0 11:00 ?        00:00:00 /usr/libexec/gvfsd-network -
+rgukt-b+    2958    1610  0 11:00 ?        00:00:00 /usr/libexec/gvfsd-dnssd --s
+root        3192       2  0 11:05 ?        00:00:00 [kworker/u8:31-events_power_
+root        3193       2  0 11:05 ?        00:00:00 [kworker/u8:32-flush-259:0]
+root        3194       2  0 11:05 ?        00:00:00 [kworker/u8:33-events_unboun
+root        3226       2  0 11:05 ?        00:00:00 [irq/177-mei_me]
+root        3236       2  0 11:05 ?        00:00:00 [kworker/3:6-inet_frag_wq]
+rgukt-b+    3286    1785  0 11:05 ?        00:00:00 gjs /usr/share/gnome-shell/e
+root        3486       2  0 11:09 ?        00:00:00 [kworker/0:0-events]
+rgukt-b+    3511    1582  1 11:10 ?        00:00:02 /usr/bin/nautilus --gapplica
+root        3581       2  0 11:11 ?        00:00:00 [kworker/0:2-events]
+root        3582       2  0 11:11 ?        00:00:00 [kworker/3:0-events]
+rgukt-b+    3591    1582  0 11:11 ?        00:00:00 /usr/libexec/gnome-terminal-
+rgukt-b+    3609    3591  0 11:11 pts/0    00:00:00 bash
+top - 11:14:49 up 15 min,  1 user,  load average: 0.16, 0.12, 0.11
+Tasks: 218 total,   2 running, 216 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  0.0 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7730.0 total,   5182.7 free,   1142.5 used,   1404.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6036.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                                                                   
+   3591 rgukt-b+  20   0  568124  53808  41416 R  33.3   0.7   0:00.98 gnome-terminal-                                                                                                                           
+      1 root      20   0  166700  11908   8208 S   0.0   0.2   0:00.95 systemd                                                                                                                                   
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd                                                                                                                                  
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp                                                                                                                                    
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp                                                                                                                                
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 netns                                                                                                                                     
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/0:0H-events_highpri                                                                                                               
+      8 root      20   0       0      0      0 I   0.0   0.0   0:00.52 kworker/0:1-cgwb_release                                                                                                                  
+     10 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 mm_percpu_wq                                                                                                                              
+     11 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_tasks_rude_                                                                                                                           
+     12 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_tasks_trace                                                                                                                           
+     13 root      20   0       0      0      0 S   0.0   0.0   0:00.11 ksoftirqd/0                                                                                                                               
+     14 root      20   0       0      0      0 I   0.0   0.0   0:00.61 rcu_sched                                                                                                                                 
+     15 root      rt   0       0      0      0 S   0.0   0.0   0:00.00 migration/0                                                                                                                               
+     16 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/0                                                                                                                             
+     17 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0                                                                                                                                   
+     18 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/1                                                                                                                                   
+     19 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/1                                                                                                                             
+     20 root      rt   0       0      0      0 S   0.0   0.0   0:00.06 migration/1                                                                                                                               
+     21 root      20   0       0      0      0 S   0.0   0.0   0:00.04 ksoftirqd/1                                                                                                                               
+     22 root      20   0       0      0      0 I   0.0   0.0   0:00.30 kworker/1:0-events                                                                                                                        
+     23 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/1:0H-events_highpri                                                                                                               
+     24 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/2                                                                                                                                   
+     25 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/2                                                                                                                       top - 11:40:21 up 40 min,  1 user,  load average: 0.15, 0.05, 0.04
+Tasks: 216 total,   1 running, 215 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  0.2 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7730.0 total,   5173.7 free,   1120.3 used,   1436.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6030.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                                                             
+   1013 mysql     20   0 2308064 393504  35252 S   0.8   5.0   0:17.57 mysqld                                                                                                                              
+   1785 rgukt-b+  20   0 4646420 263100 128548 S   0.8   3.3   0:31.15 gnome-shell                                                                                                                         
+   3591 rgukt-b+  20   0  568572  59132  46564 S   0.8   0.7   0:11.00 gnome-terminal-                                                                                                                     
+     14 root      20   0       0      0      0 I   0.4   0.0   0:01.34 rcu_sched                                                                                                                           
+    416 systemd+  20   0   14824   6080   5284 S   0.4   0.1   0:02.25 systemd-oomd                                                                                                                        
+   1930 rgukt-b+  20   0  323504  11832   7180 S   0.4   0.1   0:01.67 ibus-daemon                                                                                                                         
+   3653 rgukt-b+  20   0   21840   4144   3328 R   0.4   0.1   0:02.93 top                                                                                                                                 
+   3667 root      20   0       0      0      0 I   0.4   0.0   0:00.16 kworker/0:2-mm_percpu_wq                                                                                                            
+      1 root      20   0  166700  11908   8208 S   0.0   0.2   0:01.03 systemd                                                                                                                             
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd                                                                                                                            
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp                                                                                                                              
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp                                                                                                                          
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 netns                                                                                                                               
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/0:0H-events_highpri                                                                                                         
+     10 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 mm_percpu_wq                                                                                                                        
+     11 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_tasks_rude_                                                                                                                     
+     12 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_tasks_trace                                                                                                                     
+     13 root      20   0       0      0      0 S   0.0   0.0   0:00.13 ksoftirqd/0                                                                                                                         
+     15 root      rt   0       0      0      0 S   0.0   0.0   0:00.01 migration/0                                                                                                                         
+     16 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/0                                                                                                                       
+     17 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0                                                                                                                             
+     18 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/1                                                                                                                             
+     19 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/1                                                                                                                       
+     20 root      rt   0       0      0      0 S   0.0   0.0   0:00.07 migration/1                                                                                                                         
+     21 root      20   0       0      0      0 S   0.0   0.0   0:00.05 ksoftirqd/1                                                                                                                         
+     22 root      20   0       0      0      0 I   0.0   0.0   0:00.42 kworker/1:0-events                                                                                                                  
+     23 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/1:0H-events_highpri                                                                                                         
+     24 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/2                                                                                                                             
+     25 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/2                                                                                                                       
+     26 root      rt   0       0      0      0 S   0.0   0.0   0:00.07 migration/2                                                                                                                         
+     27 root      20   0       0      0      0 S   0.0   0.0   0:00.06 ksoftirqd/2                                                                                                                         
+     29 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/2:0H-events_highpri                                                                                                         
+     30 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/3                                                                                                                             
+     31 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/3                                                                                                                       
+     32 root      rt   0       0      0      0 S   0.0   0.0   0:00.07 migration/3                                                                                                                         
+     33 root      20   0       0      0      0 S   0.0   0.0   0:00.04 ksoftirqd/3                                                                                                                         
+     35 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/3:0H-events_highpri                                                                                                         
+     36 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kdevtmpfs                                                                                                                           
+     37 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 inet_frag_wq                                                                                                                        
+     38 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kauditd                                                                                                                             
+     39 root      20   0       0      0      0 S   0.0   0.0   0:00.00 khungtaskd                                                                                                                          
+     40 root      20   0       0      0      0 S   0.0   0.0   0:00.00 oom_reaper                                                                                                                          
+     41 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 writeback                                                                                                                           
+     42 root      20   0       0      0      0 S   0.0   0.0   0:00.09 kcompactd0                                                                                                                          
+     43 root      25   5       0      0      0 S   0.0   0.0   0:00.00 ksmd                                                                                                                                
+     44 root      39  19       0      0      0 S   0.0   0.0   0:00.00 khugepaged                                                                                                                          
+     91 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kintegrityd                                                                                                                         
+     92 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kblockd 
